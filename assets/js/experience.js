@@ -20,7 +20,7 @@ const exp = [
   },
   {
     title: "Field Data Collector (Enumerator)",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "assets/images/experience-page/kenyapower.png",
     place: "KPLC-Mt. Kenya Region",
     time: "(March - April, 2017)",
     desp: "<li>Used GPS enabled android application to mark geographical location of prepaid tocken-meters.</li><li>Managed daily assignment schedule in an efficient and accurate manner.</li><li>Weekly report to field supervisor on data collected.</li>",
