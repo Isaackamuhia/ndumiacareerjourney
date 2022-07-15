@@ -21,6 +21,14 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
+  {
+    title: "Graphics Poster Dev",
+    cardImage: "assets/images/project-page/canva.png",
+    description: "Uses canva.com an online platform to develop various graphics such as posters,bronchures etc.",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Previewlink: "",
+    Githublink: "",
+  },
 ];
 
 // function for rendering project cards data
