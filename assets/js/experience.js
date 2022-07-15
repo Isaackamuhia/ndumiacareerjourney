@@ -5,25 +5,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
+    title: "ICT Intern",
     cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    place: "Nyeri County Goverment,ICT Directorate",
+    time: "(January, 2022 - present)",
+    desp: "<li>Structure cabling work with Network cabinets and network devices installation eg.POE Switches,cabinet power-backup.</li> <li>Installed IP Cameras,configured the cameras giving them IP addresses & setting recording basin on motion detection.</li> <li>Installed WAN for internet bridging using point to point line of sight technology.Used Ubiquiti Network devices such as Ubiquiti NBE-5AC-Gen2 - NanoBeam AirMAX ac Bridge & Ubiquiti Powerbeam M5.</li> <li>Installed Ubiquiti M2 Nanostation Access Point for internet.</li><li>Computer hardware maintenance with IT support services.</li><li>Installed WAN for internet bridging using point to point line of sight technology.Used Ubiquiti Network devices such as Ubiquiti NBE-5AC-Gen2 - NanoBeam AirMAX ac Bridge & Ubiquiti Powerbeam M5.</li>  ",
   },
   {
-    title: "Student Developer",
+    title: "ICT Intern",
     cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    place: "KCSAP Nyeri-Department of Agriculture,Livestock & Fisheries",
+    time: "(Jan - April, 2022)",
+    desp: "<li>Worked as data analyst analyzing farmers' farm output data from PMIS.</li><li>Network troubleshooting.</li><li>Offered IT support services.</li><li>Computer hardware maintenance.</li>",
   },
   {
-    title: "Research Intern",
+    title: "Field Data Collector (Enumerator)",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    place: "KPLC-Mt. Kenya Region",
+    time: "(March - April, 2017)",
+    desp: "<li>Used GPS enabled android application to mark geographical location of prepaid tocken-meters.</li><li>Managed daily assignment schedule in an efficient and accurate manner.</li><li>Weekly report to field supervisor on data collected.</li>",
   },
 ];
 
