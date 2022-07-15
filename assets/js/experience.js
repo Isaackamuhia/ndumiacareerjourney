@@ -6,14 +6,14 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "ICT Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/county.png",
     place: "Nyeri County Goverment,ICT Directorate",
     time: "(January, 2022 - present)",
     desp: "<li>Structure cabling work with Network cabinets and network devices installation eg.POE Switches,cabinet power-backup.</li> <li>Installed IP Cameras,configured the cameras giving them IP addresses & setting recording basin on motion detection.</li> <li>Installed WAN for internet bridging using point to point line of sight technology.Used Ubiquiti Network devices such as Ubiquiti NBE-5AC-Gen2 - NanoBeam AirMAX ac Bridge & Ubiquiti Powerbeam M5.</li> <li>Installed Ubiquiti M2 Nanostation Access Point for internet.</li><li>Computer hardware maintenance with IT support services.</li><li>Installed WAN for internet bridging using point to point line of sight technology.Used Ubiquiti Network devices such as Ubiquiti NBE-5AC-Gen2 - NanoBeam AirMAX ac Bridge & Ubiquiti Powerbeam M5.</li>  ",
   },
   {
     title: "ICT Intern",
-    cardImage: "assets/images/experience-page/gsoc.png",
+    cardImage: "assets/images/experience-page/kcsap.jpeg",
     place: "KCSAP Nyeri-Department of Agriculture,Livestock & Fisheries",
     time: "(Jan - April, 2022)",
     desp: "<li>Worked as data analyst analyzing farmers' farm output data from PMIS.</li><li>Network troubleshooting.</li><li>Offered IT support services.</li><li>Computer hardware maintenance.</li>",
